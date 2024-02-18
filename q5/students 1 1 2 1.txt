@@ -1,0 +1,8 @@
+1001,Gautam,45
+1002,Rochit,30
+1003,Ambar,45
+1004,Ritesh,50
+1005,Harshita,85
+1006,Aryan,20
+1007,Kiruthik,85
+1008,Ashwath,91
